@@ -1,16 +1,7 @@
 
 # A Deep Dive into Diffusion-Based Image Generation Model
 
-<!---
-## Installation
 
-```bash
-$ git clone https://github.com/Samartha27/mini_ddmp.git
-$ cd mini_ddmp
-$ conda env create -f environment.yml
-$ conda activate env
-```
---->
 
 Authors: Yu Xin, Samartha Ramkumar
 
